@@ -5,6 +5,10 @@ This project was made by **Kamel MALKI, Hedi BOUFADEN and Ilès BENKOUSSA**
  who are forming the group **n°10** of **class 1 IABD** on myges
 
 ## Run the program
+- First you need to install nightly features to use the program (see at the end the reason)
+```
+rustup toolchain install nightly
+```
 - Go in the main folder
 - Type this command to go in main directory :
 ```
