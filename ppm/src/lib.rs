@@ -224,13 +224,6 @@ impl Image {
 
         let (width, height) = Image::extract_image_size(image_size);
 
-        let _color_depth = string_buffer
-            .lines()
-            .nth(2usize)
-            .unwrap()
-            .to_string()
-            .clone();
-
         Ok((width, height))
     }
 
