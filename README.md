@@ -6,7 +6,7 @@ This project was made by **Kamel MALKI, Hedi BOUFADEN and Ilès BENKOUSSA**
 
 ## Run the program
 - Go in the main folder
-- Type this command to in main directory :
+- Type this command to go in main directory :
 ```
 cd main
 ```
