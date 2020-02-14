@@ -37,6 +37,6 @@ If you want to run only bench type :
  ```
 cargo +nightly bench
 ```
-**N.B** : +nightly parameter is necessary because we are using **#![feature(test)]** which is not available is the stable version !
+**N.B** : +nightly parameter is necessary because we are using **#![feature(test)]** which is not available in the stable version !
 
 **N.B 2** : Benchs can be very long depending of the file's size so they are commented by default and it's necessary to change the code manually to give the path of the image to treat
