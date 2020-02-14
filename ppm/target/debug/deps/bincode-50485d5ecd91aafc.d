@@ -1,0 +1,13 @@
+/home/sha/Desktop/Rust/ppm/target/debug/deps/bincode-50485d5ecd91aafc.rmeta: /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/lib.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/config.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/de/mod.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/de/read.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/error.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/internal.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/ser/mod.rs
+
+/home/sha/Desktop/Rust/ppm/target/debug/deps/libbincode-50485d5ecd91aafc.rlib: /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/lib.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/config.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/de/mod.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/de/read.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/error.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/internal.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/ser/mod.rs
+
+/home/sha/Desktop/Rust/ppm/target/debug/deps/bincode-50485d5ecd91aafc.d: /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/lib.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/config.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/de/mod.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/de/read.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/error.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/internal.rs /home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/ser/mod.rs
+
+/home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/lib.rs:
+/home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/config.rs:
+/home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/de/mod.rs:
+/home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/de/read.rs:
+/home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/error.rs:
+/home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/internal.rs:
+/home/sha/.cargo/registry/src/github.com-1ecc6299db9ec823/bincode-1.2.1/src/ser/mod.rs:
