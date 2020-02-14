@@ -2,7 +2,7 @@
 
 ## Group
 This project was made by **Kamel MALKI, Hedi BOUFADEN and Ilès BENKOUSSA**
- who are forming the group **n°10** of **class 1** on myges
+ who are forming the group **n°10** of **class 1 IABD** on myges
 
 ## Run the program
 - Go in the main folder
