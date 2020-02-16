@@ -3,6 +3,9 @@
 ## Group
 This project was made by **Kamel MALKI, Hedi BOUFADEN and Ilès BENKOUSSA**
  who are forming the group **n°10** of **class 1 IABD** on myges
+ 
+## Documentation 
+Documentation can be found in libppm/ppm/target/doc
 
 ## Run the program
 - First you need to install nightly features to use the program (see at the end the reason)
